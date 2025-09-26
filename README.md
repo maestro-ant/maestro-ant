@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" class="heading-element" dir="auto">
-  Hello, I am <strong>Ayesha</strong> aka <strong>Maestro Ant</strong>!
+  Hello, I am Ayesha aka Maestro Ant!
 </h1>
 
 <!--
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBmbXU3Znk4azBuNW1qM2M0ZTZtcDBybzc5bWtweWJ1ZmlqY3kxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="100px" height="100px">
   </h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=00076f&width=500&height=60&lines=I'm+a+Penetration+Tester;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=00076f&width=500&height=60&lines=I'm+a+Penetration+Tester;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner&weight=700" alt="Typing Headline">
 </div>
 
 <br>
