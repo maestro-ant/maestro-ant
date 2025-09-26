@@ -1,5 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">
-  Hi, I'm Ayesha! (Maestro Ant) <img src="https://github.com/maestro-ant/my-assets/raw/refs/heads/main/ZlNQ4nWzmB.webm" width="50px" height="50px">
+  Hi, I'm Ayesha! (Maestro Ant) <img src="https://raw.githubusercontent.com/maestro-ant/my-assets/refs/heads/main/ZlNQ4nWzmB.gif" width="50px" height="50px">
 </h1>
 
 <!--
