@@ -45,22 +45,33 @@ Here are some ideas to get you started:
 
 <!-- Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=PROFILE+VIEWS&style=flat&color=E02424" alt="Profile views"/>
-  <a href="https://github.com/maestro-ant?tab=repositories">
-    <img src="https://img.shields.io/github/stars/maestro-ant?label=STARS&style=flat&color=E02424" alt="GitHub stars"/>
+  <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffe4f2" alt="LinkedIn">
   </a>
-  <a href="https://github.com/maestro-ant?tab=followers">
-    <img src="https://img.shields.io/github/followers/maestro-ant?label=FOLLOWERS&style=flat&color=E02424" alt="GitHub followers"/>
+  <a href="https://x.com/maestro__ant" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffe4f2" alt="Twitter">
+  </a>
+  <a href="https://medium.com/@maestro-ant" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=medium&logoColor=ffe4f2" alt="Medium">
+  </a>
+  <a href="https://youtube.com/@maestroant?si=ozcgeckFKy2bdp4V" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=ffe4f2" alt="YouTube">
   </a>
 </div>
+
 
 </br>
 
 
 <!-- Animated "Contact Me" Title -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=00076f&vCenter=true&width=400&height=40&lines=CONTACT+ME" alt="Connection Sequence">
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="60">
-<img src="https://media.giphy.com/media/l4pTky00d323m7gCQ/giphy.gif" width="100%" height="15">
+
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/224714138-b233604a-c098-4664-a537-83c118a42691.gif" width="30">
+  &nbsp;Contact Me&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/224714138-b233604a-c098-4664-a537-83c118a42691.gif" width="30">
+</h3>
+
 
 <!-- Comms Array -->
 
