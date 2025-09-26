@@ -15,23 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
-  CODE-RED THEME v2.0 - DYNAMIC EDITION
-  
-  Instructions:
-  1. Your username 'maestro-ant' is already filled in.
-  2. Just update the links in the "// Contact Grid" section with your real profiles.
--->
+<!-- Main Table for Two-Column Layout -->
+<table>
+<tr>
+<td width="65%">
 
-<!-- Header GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/wassie-bywassies-wassies-Kv2T5yBQ774PSBeXjY/giphy.gif" width="400"/>
+<!-- Left Column: Main Info -->
+
+<!-- Dynamic Typing Headline with a spinning planet -->
+<div align="left">
+  <h1>
+    Maestro Ant 
+    <img src="https://media.giphy.com/media/Vgec4i5Jc9u2b1WIQ6/giphy.gif" width="35px">
+  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=9F5DFF&width=500&height=50&lines=I'm+a+Penetration+Tester;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
 </div>
 
-<!-- Dynamic Typing Headline -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=E02424&center=true&vCenter=true&width=600&height=80&lines=I'm+a+Penetration+Testerr;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
-</div>
+<br>
+
 
 <!-- Badges -->
 <div align="center">
