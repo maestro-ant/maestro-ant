@@ -1,5 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">
-  Hi, I'm Ayesha! (Maestro Ant) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ2d290YTk0a2JmeGRxbWVuam84ZWhydjh5bnZqeDY3emg5M2RhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3YJ7bykbHXN3qHq9WN/giphy.gif" width="100px" height="100px">
+  Hi, I'm Ayesha! (Maestro Ant) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ2d290YTk0a2JmeGRxbWVuam84ZWhydjh5bnZqeDY3emg5M2RhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3YJ7bykbHXN3qHq9WN/giphy.gif" width="50px" height="50px">
 </h1>
 
 <!--
@@ -46,11 +46,12 @@ Here are some ideas to get you started:
 <br>
 
 
-<div align="center">
+
 <!-- Animated "Contact Me" Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=ffe4f2&vCenter=true&width=400&height=40&lines=Contact+Me" alt="Connection Sequence">
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=ffe4f2&center=true&vCenter=true&width=400&height=40&lines=Contact+Me" alt="Connection Sequence">
 
 <!-- Badges -->
+<div align="center">
   <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffe4f2" alt="LinkedIn">
   </a>
