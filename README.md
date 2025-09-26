@@ -48,23 +48,22 @@ Here are some ideas to get you started:
 
 
 <!-- Animated "Contact Me" Title -->
-
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=00076f&center=true&vCenter=true&width=400&height=40&lines=Contact+Me" alt="Contact Me">
+</div>
 
 <!-- Badges -->
-<div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=ffe4f2&center=true&vCenter=true&width=400&height=40&lines=Contact+Me" alt="Connection Sequence">
-  
-  <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffe4f2" alt="LinkedIn">
   </a>
-  <a href="https://x.com/maestro__ant" target="_blank">
+  <a href="https://x.com/maestro__ant" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffe4f2" alt="Twitter">
   </a>
-  <a href="https://medium.com/@maestro-ant" target="_blank">
+  <a href="https://medium.com/@maestro-ant" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=medium&logoColor=ffe4f2" alt="Medium">
   </a>
-  <a href="https://youtube.com/@maestroant?si=ozcgeckFKy2bdp4V" target="_blank">
+  <a href="https://youtube.com/@maestroant?si=ozcgeckFKy2bdp4V" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=ffe4f2" alt="YouTube">
   </a>
 </div>
