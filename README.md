@@ -63,23 +63,9 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/l4pTky00d323m7gCQ/giphy.gif" width="100%" height="15">
 
 <!-- Comms Array -->
+
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffe4f2" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/maestro__ant" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffe4f2" alt="Twitter">
-  </a>
-  <a href="https://medium.com/@maestro-ant" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=medium&logoColor=ffe4f2" alt="Medium">
-  </a>
-  <a href="https://youtube.com/@maestroant?si=ozcgeckFKy2bdp4V" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=ffe4f2" alt="YouTube">
-  </a>
-</div>
-
-
-<div align="left">
   <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/219923023-5e92621c-7c2a-487c-a664-97c722141a0b.gif" width="55" alt="LinkedIn">
   </a>
