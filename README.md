@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lybjhzZWYwNDBwMjdwNHk0ajBzdmZycnJncXI5eGM2bXdzZWJmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="200px" height="300px" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lybjhzZWYwNDBwMjdwNHk0ajBzdmZycnJncXI5eGM2bXdzZWJmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="150px" height="300px" align="center">
 <h1 align="center" class="heading-element" dir="auto">
   Hi, I'm Ayesha! (Maestro Ant)
 </h1>
