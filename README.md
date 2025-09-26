@@ -1,5 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">
-  Hi, I'm Ayesha! (Maestro Ant) <img src="https://lottie.host/embed/4d4d1b3f-009c-4607-a042-8f0a9814a914/xmL33UdaId.lottie" width="50px" height="50px">
+  Hi, I'm Ayesha! (Maestro Ant) <iframe src="https://lottie.host/embed/4d4d1b3f-009c-4607-a042-8f0a9814a914/xmL33UdaId.lottie"></iframe>
 </h1>
 
 <!--
