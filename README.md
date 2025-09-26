@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/maestro-ant/my-assets/refs/heads/main/ZlNQ4nWzmB.gif" width="150px" height="150px" align="center">
+<img src="https://github.com/maestro-ant/my-assets/blob/main/c9n6wziki5.gif?raw=true" width="300px" height="300px" align="center">
 <h1 align="center" class="heading-element" dir="auto">
   Hi, I'm Ayesha! (Maestro Ant)
 </h1>
