@@ -34,11 +34,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Badges -->
-| **Telemetry Source** | **Current Value** |
-| :--- | :--- |
-| `[+] Profile Views` | <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=&color=161B22&style=flat-square" /> |
-| `[+] Repository Stars` | <a href="https://github.com/maestro-ant?tab=repositories"><img src="https://img.shields.io/github/stars/maestro-ant?label=&color=161B22&style=flat-square" /></a> |
-| `[+] Account Followers` | <a href="https://github.com/maestro-ant?tab=followers"><img src="https://img.shields.io/github/followers/maestro-ant?label=&color=161B22&style=flat-square" /></a> |
+*   <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=Profile_Views&color=333333&style=flat-square" alt="Profile views"/>
+*   <a href="https://github.com/maestro-ant?tab=repositories"><img src="https://img.shields.io/github/stars/maestro-ant?label=Repository%20Stars&style=flat-square&color=333333" alt="GitHub stars"/></a>
+*   <a href="https://github.com/maestro-ant?tab=followers"><img src="https://img.shields.io/github/followers/maestro-ant?label=Followers&style=flat-square&color=333333" alt="GitHub followers"/></a>
 
 </br>
 
