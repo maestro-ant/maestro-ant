@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 
 
 <!-- Animated "Contact Me" Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=00076f&vCenter=true&width=400&height=40&lines=LinkedIn...;Twitter+(X)...;Medium...;YouTube..." alt="Connection Sequence">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=00076f&vCenter=true&width=400&height=40&lines=CONTACT+ME" alt="Connection Sequence">
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/l4pTky00d323m7gCQ/giphy.gif" width="100%" height="15">
 
 <!-- Comms Array -->
 <div align="center">
