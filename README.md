@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- Dynamic Typing Headline with a spinning planet -->
 <div align="left">
-  <h1 style="color: ##00076f;>
+  <h1 style="color: #00076f;>
     Maestro Ant 
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBmbXU3Znk4azBuNW1qM2M0ZTZtcDBybzc5bWtweWJ1ZmlqY3kxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="150px" height="150px">
   </h1>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 <!-- Animated "Contact Me" Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=ffe4f2&width=500&height=40&lines=//+Contact+Me" alt="Contact Me">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=00076f&width=500&height=40&lines=//+Executing+command:+./contact+--all" alt="Contact Me">
 
 <!-- Comms Array -->
 <div align="center">
