@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" class="heading-element" dir="auto">
-  Hello, I am **Ayesha** aka **Maestro Ant**!
+  Hello, I am <strong>Ayesha</strong>strong> aka <strong>Maestro Ant</strong>strong>!
 </h1>
 
 <!--
