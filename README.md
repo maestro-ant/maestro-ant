@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 <!-- Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=PROFILE+VIEWS&style=for-the-badge&color=E02424" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=PROFILE+VIEWS&style=plastic&color=E02424" alt="Profile views"/>
   <a href="https://github.com/maestro-ant?tab=repositories">
-    <img src="https://img.shields.io/github/stars/maestro-ant?label=STARS&style=for-the-badge&color=E02424" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/stars/maestro-ant?label=STARS&style=plastic&color=E02424" alt="GitHub stars"/>
   </a>
   <a href="https://github.com/maestro-ant?tab=followers">
-    <img src="https://img.shields.io/github/followers/maestro-ant?label=FOLLOWERS&style=for-the-badge&color=E02424" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/maestro-ant?label=FOLLOWERS&style=plastic&color=E02424" alt="GitHub followers"/>
   </a>
 </div>
 
