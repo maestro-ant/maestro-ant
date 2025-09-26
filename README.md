@@ -77,6 +77,23 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=ffe4f2" alt="YouTube">
   </a>
 </div>
+
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/219923023-5e92621c-7c2a-487c-a664-97c722141a0b.gif" width="55" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/maestro__ant" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/219923025-1398c864-531e-4336-963b-f4f331d279e8.gif" width="55" alt="Twitter">
+  </a>
+  <a href="https://medium.com/@maestro-ant" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/219923024-e28d8a7c-a292-4f33-8a9d-9788d6c342a7.gif" width="55" alt="Medium">
+  </a>
+  <a href="https://youtube.com/@maestroant?si=ozcgeckFKy2bdp4V" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/219923026-65196901-c8f9-4670-a359-2580327f1c48.gif" width="55" alt="YouTube">
+  </a>
+</div>
+
 </td>
 
 <td width="35%" align="center">
