@@ -35,14 +35,16 @@ Here are some ideas to get you started:
 
 <!-- Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=PROFILE+VIEWS&style=for-the-badge&color=E02424" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=&color=E02424&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views"/>
   <a href="https://github.com/maestro-ant?tab=repositories">
-    <img src="https://img.shields.io/github/stars/maestro-ant?label=STARS&style=for-the-badge&color=E02424&logo=github&logoColor=white" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/stars/maestro-ant?label=&style=for-the-badge&color=E02424&logo=github&logoColor=white" alt="GitHub stars"/>
   </a>
   <a href="https://github.com/maestro-ant?tab=followers">
-    <img src="https://img.shields.io/github/followers/maestro-ant?label=FOLLOWERS&style=for-the-badge&color=E02424&logo=github&logoColor=white" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/maestro-ant?label=&style=for-the-badge&color=E02424&logo=github&logoColor=white" alt="GitHub followers"/>
   </a>
 </div>
+
+</br>
 
 <!-- Status Report: Thematic "About Me" -->
 ### `// STATUS_REPORT.json`
