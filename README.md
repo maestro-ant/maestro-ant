@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="left">
   <h1>
     Maestro Ant 
-    <img src="https://media.giphy.com/media/Vgec4i5Jc9u2b1WIQ6/giphy.gif" width="35px">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk2eWZycTI0aXN5NDBrN3hmdjdydzVxcnh1dmc2N2MxZTA2NjNlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="35px">
   </h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=9F5DFF&width=500&height=50&lines=I'm+a+Penetration+Tester;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
 </div>
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <td width="35%" align="center">
 
 <!-- Right Column: Floating Astronaut GIF -->
-<img src="https://media.giphy.com/media/c6XTJeqP0mMpjEmd94/giphy.gif" width="100%" alt="Floating Astronaut"> </td> </tr> </table>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhNTE0cnQyamRyM3djNm9qeGk5MHljOGE4c2FnaXowb2w4cGI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kv2T5yBQ774PSBeXjY/giphy.gif" width="100%" alt="Floating Astronaut"> </td> </tr> </table>
 <!-- Ship's Telemetry & Trajectory -->
 <!-- Light & Dark Mode Compatible GitHub Stats -->
 
