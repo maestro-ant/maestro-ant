@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="left">
   <h1>
     Maestro Ant 
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBmbXU3Znk4azBuNW1qM2M0ZTZtcDBybzc5bWtweWJ1ZmlqY3kxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="35px">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBmbXU3Znk4azBuNW1qM2M0ZTZtcDBybzc5bWtweWJ1ZmlqY3kxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="60px" height="50px">
   </h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=9F5DFF&width=500&height=50&lines=I'm+a+Penetration+Tester;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
 </div>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </br>
 
 <!-- Comms Array -->
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9F5DFF" alt="LinkedIn">
   </a>
