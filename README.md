@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### `// Mission Logs`
+### `Mission Logs`
 ```json
 {
   "Primary_Directive": "Vulnerability Research & Exploit Dev",
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
     "Interstellar Red Teaming"
   ]
 }
+```
 <br>
 
 <!-- Badges -->
