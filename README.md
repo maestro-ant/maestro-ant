@@ -1,6 +1,37 @@
-<h1 align="center" class="heading-element" dir="auto">
-  Hi, I'm Ayesha! (Maestro Ant) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ2d290YTk0a2JmeGRxbWVuam84ZWhydjh5bnZqeDY3emg5M2RhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3YJ7bykbHXN3qHq9WN/giphy.gif" width="50px" height="50px">
-</h1>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lottie in Heading</title>
+
+    <!-- IMPORTANT: You must include this script for the animation to work -->
+    <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js" type="module"></script>
+
+    <style>
+        /* Optional: for better presentation */
+        body {
+            font-family: sans-serif;
+            background-color: #222;
+            color: #eee;
+            padding-top: 50px;
+        }
+        .heading-element {
+            font-size: 2.5rem; /* Make heading a bit bigger */
+        }
+    </style>
+</head>
+<body>
+
+    <h1 align="center" class="heading-element" dir="auto">
+      Hi, I'm Ayesha! (Maestro Ant) 
+      <dotlottie-wc 
+        src="https://lottie.host/4d4d1b3f-009c-4607-a042-8f0a9814a914/xmL33UdaId.lottie" 
+        style="width: 50px; height: 50px; display: inline-block; vertical-align: middle;"
+        loop
+        autoplay>
+      </dotlottie-wc>
+    </h1>
+
+</body>
 
 <!--
 **maestro-ant/maestro-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
