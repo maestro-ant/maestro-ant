@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 <br>
 
 
+<div align="center">
 <!-- Animated "Contact Me" Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=ffe4f2&vCenter=true&width=400&height=40&lines=Contact+Me" alt="Connection Sequence">
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=ffe4f2&vCenter=true&width=400&height=40&lines=Contact+Me" alt="Connection Sequence">
 
 <!-- Badges -->
-<div align="center">
   <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffe4f2" alt="LinkedIn">
   </a>
