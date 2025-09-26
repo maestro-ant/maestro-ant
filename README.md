@@ -64,12 +64,8 @@ Here are some ideas to get you started:
 
 
 <!-- Animated "Contact Me" Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=00076f&vCenter=true&width=400&height=40&lines=CONTACT+ME" alt="Connection Sequence">
-
 <h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/224714138-b233604a-c098-4664-a537-83c118a42691.gif" width="30">
-  &nbsp;Contact Me&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/224714138-b233604a-c098-4664-a537-83c118a42691.gif" width="30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Bold&size=22&color=ffe4f2&vCenter=true&width=400&height=40&lines=CONTACT+ME" alt="Connection Sequence">
 </h3>
 
 
