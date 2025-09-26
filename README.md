@@ -1,7 +1,7 @@
 <h1 align="center" class="heading-element" dir="auto">
-  Hi, I'm Ayesha! (Maestro Ant) 
+  Hi, I'm Ayesha! (Maestro Ant) <img src="https://github.com/maestro-ant/my-assets/raw/refs/heads/main/ZlNQ4nWzmB.webm" width="50px" height="50px">
 </h1>
-<iframe src="https://lottie.host/embed/4d4d1b3f-009c-4607-a042-8f0a9814a914/xmL33UdaId.lottie"></iframe>
+
 <!--
 **maestro-ant/maestro-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
