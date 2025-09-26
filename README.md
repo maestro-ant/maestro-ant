@@ -30,16 +30,12 @@ Here are some ideas to get you started:
 
 <!-- Dynamic Typing Headline -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=E02424&center=true&vCenter=true&width=600&height=80&lines=I'm+a+Penetration+Tester;Offensive+Security+Expert;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=&color=E02424&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=maestro-ant&label=PROFILE+VIEWS&style=flat&color=E02424" alt="Profile views"/>
   <a href="https://github.com/maestro-ant?tab=repositories">
-    <img src="https://img.shields.io/github/stars/maestro-ant?label=&style=for-the-badge&color=E02424&logo=github&logoColor=white" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/stars/maestro-ant?label=STARS&style=flat&color=E02424" alt="GitHub stars"/>
   </a>
   <a href="https://github.com/maestro-ant?tab=followers">
-    <img src="https://img.shields.io/github/followers/maestro-ant?label=&style=for-the-badge&color=E02424&logo=github&logoColor=white" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/maestro-ant?label=FOLLOWERS&style=flat&color=E02424" alt="GitHub followers"/>
   </a>
 </div>
 
