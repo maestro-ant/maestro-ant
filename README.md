@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <!-- Dynamic Typing Headline with a spinning planet -->
 <div align="left">
-  <h1>
+  <h1 style="color: #ffe4f2;>
     Maestro Ant 
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBmbXU3Znk4azBuNW1qM2M0ZTZtcDBybzc5bWtweWJ1ZmlqY3kxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="60px" height="50px">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBmbXU3Znk4azBuNW1qM2M0ZTZtcDBybzc5bWtweWJ1ZmlqY3kxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="150px" height="150px">
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=9F5DFF&width=500&height=50&lines=I'm+a+Penetration+Tester;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=ffe4f2&width=500&height=50&lines=I'm+a+Penetration+Tester;Cybersecurity+Researcher;Cloud+Security+Explorer;Continuous+Learner" alt="Typing Headline">
 </div>
 
 <br>
@@ -59,48 +59,50 @@ Here are some ideas to get you started:
 <!-- Comms Array -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ayesha-raja/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9F5DFF" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffe4f2" alt="LinkedIn">
   </a>
   <a href="https://x.com/maestro__ant" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=9F5DFF" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=ffe4f2" alt="Twitter">
   </a>
   <a href="https://medium.com/@maestro-ant" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=medium&logoColor=9F5DFF" alt="Medium">
+    <img src="https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=medium&logoColor=ffe4f2" alt="Medium">
   </a>
   <a href="https://youtube.com/@maestroant?si=ozcgeckFKy2bdp4V" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=9F5DFF" alt="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=ffe4f2" alt="YouTube">
   </a>
 </div>
 </td>
-<td width="35%" align="center">
 
+<td width="35%" align="center">
 <!-- Right Column: Floating Astronaut GIF -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhNTE0cnQyamRyM3djNm9qeGk5MHljOGE4c2FnaXowb2w4cGI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kv2T5yBQ774PSBeXjY/giphy.gif" width="100%" alt="Floating Astronaut"> </td> </tr> </table>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhNTE0cnQyamRyM3djNm9qeGk5MHljOGE4c2FnaXowb2w4cGI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kv2T5yBQ774PSBeXjY/giphy.gif" width="100%" alt="Floating Astronaut">
+</td>
+</tr>
+</table>
+
+
+
 <!-- Ship's Telemetry & Trajectory -->
 <!-- Light & Dark Mode Compatible GitHub Stats -->
-
 <div align="center">
-<!-- Dark Mode Stats -->
-<a href="https://github.com/maestro-ant#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=maestro-ant&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=9F5DFF&title_color=9F5DFF&icon_color=4DFFFF&text_color=C9D1D9#gh-dark-mode-only" alt="GitHub Stats Dark">
-</a>
-
-<!-- Light Mode Stats -->
-<a href="https://github.com/maestro-ant#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=maestro-ant&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&border_color=9F5DFF&title_color=9F5DFF&icon_color=4DFFFF&text_color=24292F#gh-light-mode-only" alt="GitHub Stats Light">
-</a>
+  <!-- Dark Mode Stats -->
+  <a href="https://github.com/maestro-ant#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=maestro-ant&show_icons=true&include_all_commits=true&count_private=true&bg_color=00076f&border_color=ffe4f2&title_color=ffe4f2&icon_color=ffe4f2&text_color=ffe4f2#gh-dark-mode-only" alt="GitHub Stats Dark">
+  </a>
+  <!-- Light Mode Stats -->
+  <a href="https://github.com/maestro-ant#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=maestro-ant&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffe4f2&border_color=00076f&title_color=00076f&icon_color=00076f&text_color=00076f#gh-light-mode-only" alt="GitHub Stats Light">
+  </a>
 </div>
-
 <div align="center">
-<!-- Dark Mode Streak -->
-<a href="https://github.com/maestro-ant#gh-dark-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maestro-ant&theme=radical&background=0D1117&border=9F5DFF&stroke=9F5DFF&ring=9F5DFF&fire=4DFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9#gh-dark-mode-only" alt="GitHub Streak Dark">
-</a>
-
-<!-- Light Mode Streak -->
-<a href="https://github.com/maestro-ant#gh-light-mode-only">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maestro-ant&theme=default&background=FFFFFF&border=9F5DFF&stroke=9F5DFF&ring=9F5DFF&fire=4DFFFF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=24292F&sideLabels=24292F#gh-light-mode-only" alt="GitHub Streak Light">
-</a>
+  <!-- Dark Mode Streak -->
+  <a href="https://github.com/maestro-ant#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maestro-ant&theme=radical&background=00076f&border=ffe4f2&stroke=ffe4f2&ring=ffe4f2&fire=ffe4f2&currStreakNum=ffe4f2&sideNums=ffe4f2&currStreakLabel=ffe4f2&sideLabels=ffe4f2#gh-dark-mode-only" alt="GitHub Streak Dark">
+  </a>
+  <!-- Light Mode Streak -->
+  <a href="https://github.com/maestro-ant#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maestro-ant&theme=default&background=ffe4f2&border=00076f&stroke=00076f&ring=00076f&fire=00076f&currStreakNum=00076f&sideNums=00076f&currStreakLabel=00076f&sideLabels=00076f#gh-light-mode-only" alt="GitHub Streak Light">
+  </a>
 </div>
 
 
